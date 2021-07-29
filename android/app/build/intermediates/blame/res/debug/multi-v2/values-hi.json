@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/media/nanda/Wearness/playground/react-native-shopping-cart/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml",
+            "outputFile": "/media/nanda/Wearness/playground/android-e-commerce/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml",
             "map": [
                 {
                     "source": "/home/nanda/.gradle/caches/transforms-2/files-2.1/2b7e6ebaa515cd43f42fb356f0d1941c/appcompat-1.1.0/res/values-hi/values-hi.xml",

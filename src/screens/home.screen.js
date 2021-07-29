@@ -98,7 +98,7 @@ const HomeScreen = ({ navigation }) => {
   );
 
   const onItemPress = (index) => {
-    navigation && navigation.navigate("ProductDetail");
+    // navigation && navigation.navigate("ProductDetail");
   };
 
   const renderProductItem = (info) => (

@@ -31,14 +31,14 @@ export class Category {
 
   
 
-  static accessories() {
-    return new Category(
-      "Accessories",
-      CategoryType.ELECTRONICS,
-      "ACCESSORIES",
-      require("../../../assets/trainings/accessories.png")
-    );
-  }
+  // static accessories() {
+  //   return new Category(
+  //     "Accessories",
+  //     CategoryType.ELECTRONICS,
+  //     "ACCESSORIES",
+  //     require("../../../assets/trainings/accessories.png")
+  //   );
+  // }
 
   static mobiles() {
     return new Category(
